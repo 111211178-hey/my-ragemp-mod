@@ -1,0 +1,1 @@
+# This is a basic server structure with SQLite support for login and registration logic using Express framework.
